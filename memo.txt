@@ -1,0 +1,10 @@
+1. It directly maps people (nodes) and their relationships (links).
+
+2. A list or tree wouldn't work well for social networks because they lack the complex, non-hierarchical, and cyclic connections that define a real-world network
+
+3, i cant notice anything because this all sucks and i want to never do this again :)
+
+
+
+
+
